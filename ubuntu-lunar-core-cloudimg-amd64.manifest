@@ -85,9 +85,9 @@ procps	2:3.3.17-7ubuntu1
 sed	4.8-1ubuntu2
 sensible-utils	0.0.17
 sysvinit-utils	3.04-1ubuntu1
-tar	1.34+dfsg-1build3
+tar	1.34+dfsg-1.1
 ubuntu-keyring	2021.03.26
-usrmerge	29ubuntu2
+usrmerge	33ubuntu1
 util-linux	2.38-4ubuntu1
 util-linux-extra	2.38-4ubuntu1
 zlib1g:amd64	1:1.2.11.dfsg-4.1ubuntu1
