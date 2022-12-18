@@ -41,7 +41,7 @@ libgnutls30:amd64	3.7.7-2ubuntu2
 libgpg-error0:amd64	1.46-1
 libhogweed6:amd64	3.8.1-2
 libidn2-0:amd64	2.3.3-1build1
-liblz4-1:amd64	1.9.3-2build2
+liblz4-1:amd64	1.9.4-1
 liblzma5:amd64	5.2.9-0.0
 libmd0:amd64	1.0.4-2
 libmount1:amd64	2.38.1-4ubuntu1
