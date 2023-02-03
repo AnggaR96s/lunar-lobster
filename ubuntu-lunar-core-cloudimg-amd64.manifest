@@ -8,12 +8,12 @@ dash	0.5.11+git20210903+057cd650a4ed-9ubuntu1
 debconf	1.5.82
 debianutils	5.7-0.4
 diffutils	1:3.8-3
-dpkg	1.21.18ubuntu3
+dpkg	1.21.19ubuntu3
 e2fsprogs	1.46.6~rc1-1ubuntu1
 findutils	4.9.0-3ubuntu1
 gcc-12-base:amd64	12.2.0-14ubuntu1
 gpgv	2.2.40-1ubuntu2
-grep	3.8-3
+grep	3.8-5
 gzip	1.12-1ubuntu1
 hostname	3.23ubuntu2
 init-system-helpers	1.65.2
