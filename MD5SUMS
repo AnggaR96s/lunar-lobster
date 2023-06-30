@@ -1,10 +1,10 @@
-127b13b7e893e48dddd9ea77355bb4bf *ubuntu-lunar-core-cloudimg-s390x-root.tar.gz
+248b6a435d9c4b3001cb21c6b106c3d2 *ubuntu-lunar-core-cloudimg-amd64-root.tar.gz
+29950ca7f15eb1e77ac6b33c5a58b3a2 *ubuntu-lunar-core-cloudimg-arm64-root.tar.gz
 3720bc59f737b32f751d63028c4a6a0f *ubuntu-lunar-core-cloudimg-ppc64el.manifest
-85070990a5cbbd38b1bd79a7aface7f7 *ubuntu-lunar-core-cloudimg-ppc64el-root.tar.gz
+7ea6b87b33bbd53f2917d6f32f08a800 *ubuntu-lunar-core-cloudimg-armhf-root.tar.gz
+88b6525b343b83c185a39f15276e7b00 *ubuntu-lunar-core-cloudimg-s390x-root.tar.gz
 98176ba8e99e162819256afbd18ff533 *ubuntu-lunar-core-cloudimg-armhf.manifest
 a74d272eaa120e3b8d9e41e8e881aa47 *ubuntu-lunar-core-cloudimg-amd64.manifest
 b190189ee539786aadbd92a7aad0a4d4 *ubuntu-lunar-core-cloudimg-s390x.manifest
-d4ee1b69c0b5edacbf5ac128044dcb00 *ubuntu-lunar-core-cloudimg-arm64-root.tar.gz
+be4c05698f9e474d4fcfe576beed4b7f *ubuntu-lunar-core-cloudimg-ppc64el-root.tar.gz
 d9f59a50be9c3865d3fcdea394506634 *ubuntu-lunar-core-cloudimg-arm64.manifest
-dc61f1e678eee3ef83e3cb5caf95815f *ubuntu-lunar-core-cloudimg-amd64-root.tar.gz
-e1cd533195d5046b4008571ea80a4ebb *ubuntu-lunar-core-cloudimg-armhf-root.tar.gz
